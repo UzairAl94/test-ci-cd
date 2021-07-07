@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React yeeah with ci/cd
+          Learn React yeeah with ci/cd with taha bc
         </a>
       </header>
     </div>
